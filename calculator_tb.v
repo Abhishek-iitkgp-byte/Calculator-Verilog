@@ -1,4 +1,4 @@
-module interactive_calc_tb;
+module calculator_tb;
 
 parameter N = 16;
 
